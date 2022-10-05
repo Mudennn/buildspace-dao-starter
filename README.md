@@ -10,6 +10,8 @@ I just finished this project:
 
 ✅ built a dapp that lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that are executed directly by my governance contract.
 
+Here is the demo link: https://bnwdao.vercel.app/
+
 ### **Welcome 👋**
 To get started with this project, clone this repo and follow these commands:
 
