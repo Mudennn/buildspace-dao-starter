@@ -4,7 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
   color: #fff;
   overflow-x: hidden;
 }
@@ -116,7 +117,7 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: #7700ee;
   color: #fff;
   border: none;
   font-weight: bold;
